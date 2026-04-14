@@ -1,0 +1,7 @@
+{
+  "name": "Ứng dụng hỗ trợ tập",
+  "description": "An AI-powered educational platform featuring personalized learning pathways, Socratic tutoring, and intelligent problem solving.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
